@@ -69,7 +69,7 @@ Photography, Photo Editing, Lightweight Workouts, Problem Solving
 - Email: atashaikh2000@gmail.com
 - Phone: +91 7385206750
 - LinkedIn: [theatashaikh](https://www.linkedin.com/in/theatashaikh)
-- GitHub: [theatashaikh](https://github.com/theatashaikh)
+- My another GitHub: [internetwebsoftwares](https://github.com/internetwebsoftwares))
 - Hugging Face: [theatashaikh](https://huggingface.co/theatashaikh)
 - Kaggle: [atashaikh2000](https://www.kaggle.com/atashaikh2000)
 - Twitter: [@theatashaikh](https://twitter.com/theatashaikh)
