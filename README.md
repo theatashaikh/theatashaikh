@@ -11,7 +11,17 @@ I'm a passionate developer and data scientist with a strong background in web de
 
 **Location**: Bhiwandi, Maharashtra, India
 
-Interests: Data Analysis, Data Science, Machine Learning, Web development, Photography, Photo Editing, and Problem-solving.
+**Interests:** Data Analysis, Data Science, Machine Learning, Web Development, Photography, Photo Editing, and Problem-solving.
+
+## 📫 Contact Me
+
+- Email: atashaikh2000@gmail.com
+- Phone: +91 7385206750
+- LinkedIn: [theatashaikh](https://www.linkedin.com/in/theatashaikh)
+- My other GitHub: [internetwebsoftwares](https://github.com/internetwebsoftwares)
+- Hugging Face: [theatashaikh](https://huggingface.co/theatashaikh)
+- Kaggle: [atashaikh2000](https://www.kaggle.com/atashaikh2000)
+- Twitter: [@theatashaikh](https://twitter.com/theatashaikh)
 
 ## 🎓 Education
 
@@ -64,15 +74,6 @@ Interests: Data Analysis, Data Science, Machine Learning, Web development, Photo
 
 ## 🎨 Hobbies
 Photography, Photo Editing, Lightweight Workouts, Problem Solving
-
-## 📫 Contact Me
-- Email: atashaikh2000@gmail.com
-- Phone: +91 7385206750
-- LinkedIn: [theatashaikh](https://www.linkedin.com/in/theatashaikh)
-- My other GitHub: [internetwebsoftwares](https://github.com/internetwebsoftwares)
-- Hugging Face: [theatashaikh](https://huggingface.co/theatashaikh)
-- Kaggle: [atashaikh2000](https://www.kaggle.com/atashaikh2000)
-- Twitter: [@theatashaikh](https://twitter.com/theatashaikh)
 
 ---
 Thank you for visiting my profile! 😊
