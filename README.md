@@ -1,15 +1,15 @@
 # Hi there, I'm Ata Shaikh (He/Him)👋
 
 ## 👨‍💻 About Me
-Passionate AI and Web Developer | Data Science Enthusiast | M.Sc. AI Student
+Passionate Data Analyst | Data Scientist | Web developer
 
-I'm a passionate developer and data scientist with a strong background in web development and machine learning. I hold a Bachelor's degree in Information Technology and I'm currently pursuing a Master's degree in Artificial Intelligence. Here's a bit more about me:
+I have a strong background in Data Analysis, Web development and machine learning. I hold a Bachelor's degree in Information Technology and I'm currently pursuing a Master's degree in Artificial Intelligence. Here's a bit more about me:
 
 **Name:** Ata Shaikh
 
 **DOB:** Sept 24, 2000
 
-**Location**: Bhiwandi, Maharashtra, India
+**Location**: India
 
 **Interests:** Data Analysis, Data Science, Machine Learning, Web Development, and Problem-solving.
 
@@ -27,7 +27,7 @@ I'm a passionate developer and data scientist with a strong background in web de
 
 ## 🎓 Education
 
-| Degree | Institution | University | Status |
+| Degree | College | Univerity | Status |
 |--------|-------------|------------|--------|
 | M.Sc. Artificial Intelligence | B.K. Birla College | University of Mumbai | Ongoing |
 | B.Sc. Information Technology | B.N.N College | University of Mumbai | Completed |
@@ -45,11 +45,11 @@ I'm a passionate developer and data scientist with a strong background in web de
   - Developed a Diabetes prediction model
 
 ## 🛠 Skills
-- **Programming Languages**: JavaScript, Python, SQL
-- **Web Development**: React, Express, MongoDB
-- **Data Science**: Data Analysis, EDA, Data Cleaning, Data Visualization
+- **Programming Languages**: Python, SQL, JavaScript, and Bash
+- **Web Development**: React, Express, Node JS, MongoDB
+- **Data Analysis**: Data Cleaning, EDA, Data Visualization
 - **Machine Learning**: Predictive Modeling, Neural Networks
-- **Tools**: Git, GitHub, Figma
+- **Tools**: Git, GitHub, Figma, MS Office, Adobe Photoshop
 - **Soft skills:** Communication, and presentation.
 
 ## 🏆 Certifications
