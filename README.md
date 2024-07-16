@@ -11,7 +11,9 @@ I'm a passionate developer and data scientist with a strong background in web de
 
 **Location**: Bhiwandi, Maharashtra, India
 
-**Interests:** Data Analysis, Data Science, Machine Learning, Web Development, Photography, Photo Editing, and Problem-solving.
+**Interests:** Data Analysis, Data Science, Machine Learning, Web Development, and Problem-solving.
+
+
 
 ## 📫 Contact Me
 
