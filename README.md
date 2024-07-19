@@ -9,7 +9,7 @@ about_me = {
     "last_name": "Shaikh",
     "date_of_birth": "Sept 24th, 2000",
     "location": "India",
-    "interested_in": [ "Data Analysis", "Data Science", "Machine Learning"]
+    "interested_in": [ "Data Analysis", "Data Science", "Machine Learning"],
     "programming_languages": ["Python", "SQL", "Bash", "JavaScript"]
 }
 
