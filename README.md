@@ -1,6 +1,6 @@
 # Hi there, I'm Ata Shaikh (He/Him)👋
-
-
+## 👨‍💻 About Me
+<div style="display:flex; flex-wrap:wrap; justify-content:center;align-items:center">
 
 ```python
 about_me = {
@@ -9,14 +9,19 @@ about_me = {
     "last_name": "Shaikh",
     "date_of_birth": "Sept 24th, 2000",
     "location": "India",
-    "interested_in": [ "Data Analysis", "Data Science", "Machine Learning"],
+    "interested_in": [ "Data Analysis", "Data Science", "Machine Learning"]
     "programming_languages": ["Python", "SQL", "Bash", "JavaScript"]
-
 }
 
 ```
 
-## 👨‍💻 About Me
+
+<img style="width:100%;max-width:300px" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+
+</div>
+
+<br />
+
 Passionate Data Analyst | Data Scientist | Web developer
 
 I have a strong background in Data Analysis, Web development and machine learning. I hold a Bachelor's degree in Information Technology and I'm currently pursuing a Master's degree in Artificial Intelligence. Here's a bit more about me:
