@@ -38,13 +38,26 @@ I have a strong background in Data Analysis, Web development and machine learnin
 
 ## 📫 Contact Me
 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theatashaikh/)
+[![Huggingface Badge](https://img.shields.io/badge/huggingface-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/theatashaikh)
+[![Youtube Badge](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@theatashaikh)
+[![Kaggle Badge](https://img.shields.io/badge/kaggle-dodgerblue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/atashaikh2000)
+
+
+
 - Email: atashaikh2000@gmail.com
-- Phone: +91 7385206750
-- LinkedIn: [theatashaikh](https://www.linkedin.com/in/theatashaikh)
 - My other GitHub: [internetwebsoftwares](https://github.com/internetwebsoftwares)
-- Hugging Face: [theatashaikh](https://huggingface.co/theatashaikh)
-- Kaggle: [atashaikh2000](https://www.kaggle.com/atashaikh2000)
-- Twitter: [@theatashaikh](https://twitter.com/theatashaikh)
+
+<!--
+<center>
+
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=theatashaikh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=theatashaikh&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+
+
+</center>
+-->
 
 ## 🎓 Education
 
@@ -83,7 +96,7 @@ I have a strong background in Data Analysis, Web development and machine learnin
 - [Statistics](https://learn.365datascience.com/certificates/CC-BBA492DA22/) - (360datascience.com) 
 - [Python Programmer bootcamp](https://learn.365datascience.com/certificates/CC-E0C6F103BD/) - (360datascience.com)
 - [Introduction to Data and Data Science](https://learn.365datascience.com/certificates/CC-A29D11C931/)      - (360datascience.com)
-- [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/6CS4FVSUDVCG)             - (Google and Coursera)
+- [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/6CS4FVSUDVCG) - (Google and Coursera)
 
 ## 🚀 Projects
 - [**PicPhrase**](https://huggingface.co/spaces/theatashaikh/PicPhrase): AI Image captioning app
