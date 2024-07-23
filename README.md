@@ -79,7 +79,7 @@ I have a strong background in Data Analysis, Web development and machine learnin
 
 ## 🛠 Skills
 - **Programming Languages**: Python, SQL, JavaScript, and Bash
-- - **Data Analysis**: Data Cleaning, EDA, Data Visualization
+- **Data Analysis**: Data Cleaning, EDA, Data Visualization
 - **Machine Learning**: Predictive Modeling, Neural Networks
 - **Web Development**: HTML, CSS, React, Express, Node JS, MongoDB
 - **Tools**: Git, GitHub, Figma, MS Office, Adobe Photoshop
