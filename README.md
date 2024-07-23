@@ -4,7 +4,6 @@
 
 ```python
 about_me = {
-
     "first_name": "Ata",
     "last_name": "Shaikh",
     "date_of_birth": "Sept 24th, 2000",
@@ -80,14 +79,14 @@ I have a strong background in Data Analysis, Web development and machine learnin
 
 ## 🛠 Skills
 - **Programming Languages**: Python, SQL, JavaScript, and Bash
-- **Web Development**: React, Express, Node JS, MongoDB
-- **Data Analysis**: Data Cleaning, EDA, Data Visualization
+- - **Data Analysis**: Data Cleaning, EDA, Data Visualization
 - **Machine Learning**: Predictive Modeling, Neural Networks
+- **Web Development**: HTML, CSS, React, Express, Node JS, MongoDB
 - **Tools**: Git, GitHub, Figma, MS Office, Adobe Photoshop
 - **Soft skills:** Communication, and presentation.
 
 ## 🏆 Certifications
-- Relational Databases - (FreeCodeCamp.org)
+- [Relational Database](https://www.freecodecamp.org/certification/theatashaikh/relational-database-v8) - (FreeCodeCamp.org)
 - [Career Essentials in Generative AI](https://www.linkedin.com/learning/certificates/8f434e45235d6d3a4ea56c7bd24f5b7e8d8102e6fdcb5dc31e90c0e5bbde0c23?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqRQEGGLORPOxcAbgvtFLHA%3D%3D) - (Microsoft and LikedIn)
 - [Career Essentials in Software Development](https://www.linkedin.com/learning/certificates/350cadb38f069aa73e33528ee2bbc4bac1d112134cafae42b6b5430c97d72818?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqRQEGGLORPOxcAbgvtFLHA%3D%3D) - (Microsoft and LikedIn)
 - [Scientific Computing with Python](https://www.freecodecamp.org/certification/ata_shaikh/scientific-computing-with-python-v7) - (FreeCodeCamp.org)
