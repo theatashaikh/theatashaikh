@@ -5,8 +5,6 @@
 
 Aspiring Data Analyst | Passion for Data-Driven Insights to Drive Business Success Using SQL, Python, Excel, PowerBI, and AI | Effective communicator | Blogger
 
-I have a strong background in Data Analysis, Web development and machine learning. I hold a Bachelor's degree in Information Technology and I'm currently pursuing a Master's degree in Artificial Intelligence. Here's a bit more about me:
-
 **Name:** Ata Shaikh
 
 **DOB:** Sept 24, 2000
