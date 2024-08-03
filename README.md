@@ -1,20 +1,7 @@
+![Banner Image](my-profile-banner.png)
+
 # Hi there, I'm Ata Shaikh (He/Him)👋
 ## 👨‍💻 About Me
-<div style="display:flex; flex-wrap:wrap; justify-content:center;align-items:center">
-
-```python
-about_me = {
-    "first_name": "Ata",
-    "last_name": "Shaikh",
-    "date_of_birth": "Sept 24th, 2000",
-    "location": "India",
-    "interested_in": [ "Data Analysis", "Data Science", "Machine Learning"],
-    "programming_languages": ["Python", "SQL", "Bash", "JavaScript"]
-}
-
-```
-</div>
-
 <br />
 
 Passionate Data Analyst | Data Scientist | Web developer
