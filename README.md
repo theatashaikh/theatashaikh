@@ -1,4 +1,4 @@
-![Banner Image](new-profile-banner.png)
+![Banner Image](my-profile-banner.png)
 
 # Hi there, I'm Ata Shaikh (He/Him)👋
 <br />
@@ -18,10 +18,11 @@ Aspiring Data Analyst | Passion for Data-Driven Insights to Drive Business Succe
 ## 📫 Contact Me
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theatashaikh/)
+<!--
 [![Huggingface Badge](https://img.shields.io/badge/huggingface-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/theatashaikh)
 [![Youtube Badge](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@theatashaikh)
 [![Kaggle Badge](https://img.shields.io/badge/kaggle-dodgerblue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/atashaikh2000)
-
+-->
 
 
 - Email: atashaikh2000@gmail.com
