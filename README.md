@@ -1,4 +1,4 @@
-![Banner Image](my-profile-banner.png)
+![Banner Image](Design 2 (2).png)
 
 # Hi there, I'm Ata Shaikh (He/Him)👋
 <br />
