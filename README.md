@@ -79,10 +79,7 @@ Aspiring Data Analyst | Passion for Data-Driven Insights to Drive Business Succe
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/6CS4FVSUDVCG) - (Google and Coursera)
 
 ## 🚀 Projects
-- [**PicPhrase**](https://huggingface.co/spaces/theatashaikh/PicPhrase): AI Image captioning app
-- [**IWS Forms**](https://forms-iws.netlify.app/): Full-stack web app similar to Google Forms
-- [**Blogbook**](https://blogbookapp.netlify.app/): Full-stack social media platform similar to Twitter
-- **JustSellIt**: Mobile app similar to eBay (React Native)
+[Checkout my latest projects](https://www.linkedin.com/in/theatashaikh/details/projects/)
 
 ## 🌐 Languages
 - English (Fluent)
