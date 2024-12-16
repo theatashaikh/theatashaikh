@@ -3,7 +3,7 @@
 # Hi there, I'm Ata Shaikh (He/Him)👋
 <br />
 
-Aspiring Data Analyst | Passion for Data-Driven Insights to Drive Business Success Using SQL, Python, Excel, PowerBI, and AI | Effective communicator | Blogger
+Data Scientist | Passion for Data-Driven Insights to Drive Business Success Using SQL, Python, Excel, PowerBI, and AI | Effective communicator | Blogger
 
 **Name:** Ata Shaikh
 
@@ -11,7 +11,7 @@ Aspiring Data Analyst | Passion for Data-Driven Insights to Drive Business Succe
 
 **Location**: India
 
-**Interests:** Data Analysis, Data Science, Machine Learning, Web Development, and Problem-solving.
+**Interests:** Data Analysis, Data Science, Machine Learning, and Problem-solving.
 
 
 
