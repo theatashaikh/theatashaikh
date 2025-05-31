@@ -1,95 +1,113 @@
 ![Banner Image](my-profile-banner.png)
 
-# Hi there, I'm Ata Shaikh (He/Him)👋
-<br />
+# 👋 Welcome to My GitHub!
+Hi, I'm Ata Sadruddin Shaikh, a passionate Data Scientist with over 3 years of experience at ITKhidma, building scalable data pipelines and delivering actionable insights. I specialize in Python, SQL, Microsoft Azure, and data visualization (Power BI, Tableau). This repository showcases my projects, skills, and contributions in data science, data engineering, and machine learning.
+🔗 Connect with me: LinkedIn | Email
 
-Data Scientist | Passion for Data-Driven Insights to Drive Business Success Using SQL, Python, Excel, PowerBI, and AI | Effective communicator | Blogger
+# 🚀 About Me
 
-**Name:** Ata Shaikh
+## 🎓 Education: 
+- Master of Science in Artificial Intelligence (2022–2024)
+-  Bachelor of Science in Information Technology (2019–2022)
 
-**DOB:** Sept 24, 2000
+## 💼 Current Role: 
+Data Scientist at ITKhidma (May 2022–Present), developing machine learning models and Azure-based data pipelines
 
-**Location**: India
+## 🌟 Key Achievements:
+- Built an end-to-end Azure data pipeline processing 100,000+ records, improving efficiency by 30%
+- Created Power BI dashboards for 10+ clients, reducing reporting time by 40%
+- Developed predictive models, boosting marketing campaign effectiveness by 20%
 
-**Interests:** Data Analysis, Data Science, Machine Learning, and Problem-solving.
+## 🛠️ Technical Skills: 
+Python, SQL, PySpark, Pandas, NumPy, Power BI, Tableau, Microsoft Azure (Data Factory, Data Lake, Synapse, Databricks), HTML, CSS, JavaScript, Java, Git, GitHub
 
+## 🤝 Soft Skills: 
+Problem Solving, Communication, Leadership, Analytical Thinking, Collaboration, Time Management
 
-
-## 📫 Contact Me
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theatashaikh/)
-[![Youtube Badge](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datafrontline)
-<!--
-[![Huggingface Badge](https://img.shields.io/badge/huggingface-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/theatashaikh)
-[![Kaggle Badge](https://img.shields.io/badge/kaggle-dodgerblue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/atashaikh2000)
--->
-
-
-- Email: atashaikh2000@gmail.com
-- My other GitHub: [internetwebsoftwares](https://github.com/internetwebsoftwares)
-
-<!--
-<center>
-
-<img width="800" height="220" src="https://streak-stats.demolab.com?user=theatashaikh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=theatashaikh&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+## 🎯 Interests: 
+Data Visualization, Machine Learning, Open-Source Contributions, Traveling, Photography, Reading
 
 
-</center>
--->
+# 👋 Welcome to My GitHub!
 
-## 🎓 Education
+Hi, I'm **Ata Sadruddin Shaikh**, a passionate **Data Scientist** with over 3 years of experience at ITKhidma, building scalable data pipelines and delivering actionable insights. I specialize in **Python**, **SQL**, **Microsoft Azure**, and **data visualization** (Power BI, Tableau). This repository showcases my projects, skills, and contributions in **data science**, **data engineering**, and **machine learning**.
 
-| Degree | College | Univerity | Status |
-|--------|-------------|------------|--------|
-| M.Sc. Artificial Intelligence | B.K. Birla College | University of Mumbai | Ongoing |
-| B.Sc. Information Technology | B.N.N College | University of Mumbai | Completed |
-
-## 💼 Experience
-- **Deep Learning Intern** at TCS
-  - Developed a grammatical error detection and correction model
-    Former Deep Learning Intern at TCS, one of India's leading corporations.
-- **Machine Learning Intern** at CodeSoft
-  - Spam SMS detection
-  - Customer churn prediction
-  - Movie genre classification
-- **Data Analyst Intern** at MeriSkill
-  - Created sales dashboards using Microsoft Excel
-  - Developed a Diabetes prediction model
-
-## 🛠 Skills
-- **Programming Languages**: Python, SQL, JavaScript, and Bash
-- **Data Analysis**: Data Cleaning, EDA, Data Visualization
-- **Machine Learning**: Predictive Modeling, Neural Networks
-- **Web Development**: HTML, CSS, React, Express, Node JS, MongoDB
-- **Tools**: Git, GitHub, Figma, MS Office, Adobe Photoshop
-- **Soft skills:** Communication, and presentation.
-
-## 🏆 Certifications
-- [Relational Database](https://www.freecodecamp.org/certification/theatashaikh/relational-database-v8) - (FreeCodeCamp.org)
-- [Career Essentials in Generative AI](https://www.linkedin.com/learning/certificates/8f434e45235d6d3a4ea56c7bd24f5b7e8d8102e6fdcb5dc31e90c0e5bbde0c23?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqRQEGGLORPOxcAbgvtFLHA%3D%3D) - (Microsoft and LikedIn)
-- [Career Essentials in Software Development](https://www.linkedin.com/learning/certificates/350cadb38f069aa73e33528ee2bbc4bac1d112134cafae42b6b5430c97d72818?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BqRQEGGLORPOxcAbgvtFLHA%3D%3D) - (Microsoft and LikedIn)
-- [Scientific Computing with Python](https://www.freecodecamp.org/certification/ata_shaikh/scientific-computing-with-python-v7) - (FreeCodeCamp.org)
-- [Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/ENZXFDD2ANK4) - (Google and Coursera)
-- [Mathematics](https://learn.365datascience.com/certificates/CC-9C3BC98B8F/) - (360datascience.com)
-- [Statistics](https://learn.365datascience.com/certificates/CC-BBA492DA22/) - (360datascience.com) 
-- [Python Programmer bootcamp](https://learn.365datascience.com/certificates/CC-E0C6F103BD/) - (360datascience.com)
-- [Introduction to Data and Data Science](https://learn.365datascience.com/certificates/CC-A29D11C931/)      - (360datascience.com)
-- [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/6CS4FVSUDVCG) - (Google and Coursera)
-
-## 🚀 Projects
-[Checkout my latest projects](https://www.linkedin.com/in/theatashaikh/details/projects/)
-
-## 🌐 Languages
-- English (Fluent)
-- Hindi (Native)
-- Urdu (Native)
-
-## 🎨 Hobbies
-Photography, Photo Editing, Lightweight Workouts, Problem Solving
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/theatashaikh) | [Email](mailto:atashaikh2000@gmail.com)
 
 ---
-Thank you for visiting my profile! 😊
 
-Feel free to reach out to me through any of the above platforms. I'm always open to discussing new projects, opportunities, and collaborations!
+## 🚀 About Me
+
+- 🎓 **Education**: Master of Science in Artificial Intelligence (2022–2024) | Bachelor of Science in Information Technology (2019–2022)
+- 💼 **Current Role**: Data Scientist at ITKhidma (May 2022–Present), developing machine learning models and Azure-based data pipelines
+- 🌟 **Key Achievements**:
+  - Built an end-to-end Azure data pipeline processing 100,000+ records, improving efficiency by 30%
+  - Created Power BI dashboards for 10+ clients, reducing reporting time by 40%
+  - Developed predictive models, boosting marketing campaign effectiveness by 20%
+- 🛠️ **Technical Skills**: Python, SQL, PySpark, Pandas, NumPy, Power BI, Tableau, Microsoft Azure (Data Factory, Data Lake, Synapse, Databricks), HTML, CSS, JavaScript, Java, Git, GitHub
+- 🤝 **Soft Skills**: Problem Solving, Communication, Leadership, Analytical Thinking, Collaboration, Time Management
+- 🎯 **Interests**: Data Visualization, Machine Learning, Open-Source Contributions, Traveling, Photography, Reading
+
+---
+
+## 📂 Featured Projects
+
+### [End-to-End Azure Data Engineering Project](https://github.com/theatashaikh/azure-data-engineering)
+- **Description**: Engineered a scalable data pipeline using Azure Data Factory, Data Lake, and Databricks to process 100,000+ customer records from AdventureWorksLT2022.
+- **Key Features**:
+  - Implemented Bronze-Silver-Gold architecture, optimizing query performance by 35%
+  - Secured pipeline with Azure Key Vault and RBAC, eliminating credential exposure
+  - Built Power BI dashboards for customer demographics, enabling 15% faster decision-making
+- **Technologies**: Azure (Data Factory, Data Lake, Databricks, Synapse), PySpark, SQL, Power BI
+- **Metrics**: Reduced data processing time by 30% for 100,000+ records
+- [View Project Details](./docs/azure-end-to-end-data-engineering-project-overview.md)
+
+### Customer Behavior Analysis and Exploratory Data Analysis
+- **Description**: Conducted EDA on 50,000+ bookstore transactions to identify purchase trends and segment customers.
+- **Key Features**:
+  - Built predictive models to improve marketing campaigns by 20%
+  - Visualized insights using Tableau, reducing reporting efforts by 25%
+- **Technologies**: SQL, Python (Pandas, NumPy), Tableau
+- **Metrics**: Analyzed 50,000+ transactions, enhanced campaign effectiveness by 20%
+
+### Advanced Data Analytics with SQL
+- **Description**: Optimized complex SQL queries and automated data cleaning for large datasets.
+- **Key Features**:
+  - Improved data retrieval efficiency by 15%
+  - Reduced preprocessing time by 30% with automated scripts
+- **Technologies**: SQL, Python
+- **Metrics**: Enhanced query performance for datasets with 10,000+ rows
+
+---
+
+## 🏆 Certifications
+
+- Certified Data Scientist Analytics Specialist
+- Relational Databases
+- Python Programming Bootcamp
+- Career Essentials in Software Development by Microsoft
+- Career Essentials in Generative AI by Microsoft
+- Introduction to Git & GitHub by Google
+
+---
+
+## 📬 Get in Touch
+
+- 📧 Email: [atashaikh2000@gmail.com](mailto:atashaikh2000@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/theatashaikh](https://www.linkedin.com/in/theatashaikh)
+- 📞 Phone: +91 7385206750
+- 💻 GitHub: [github.com/theatashaikh](https://www.github.com/theatashaikh)
+
+I’m always excited to collaborate on **data science**, **machine learning**, or **open-source projects**. Feel free to reach out to discuss ideas or opportunities!
+
+---
+
+## 🌟 Interests & Hobbies
+
+- Exploring advancements in **machine learning** and **data visualization**
+- Contributing to **open-source** projects
+- **Traveling** and capturing moments through **photography**
+- **Reading** (especially books on communication, business, and technology)
+- **Fitness** and staying active
+
+*Last updated: May 2025*
