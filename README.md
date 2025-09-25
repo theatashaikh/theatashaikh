@@ -11,7 +11,7 @@ Hi, I'm Ata Sadruddin Shaikh, a passionate Data Scientist with over 3 years of e
 -  Bachelor of Science in Information Technology (2019–2022)
 
 ## 💼 Current Role: 
-Data Scientist at ITKhidma (May 2022–Present), developing machine learning models and Azure-based data pipelines
+Data Science Consultant at ITKhidma (May 2022–Present), developing machine learning models and Azure-based data pipelines
 
 ## 🌟 Key Achievements:
 - Built an end-to-end Azure data pipeline processing 100,000+ records, improving efficiency by 30%
@@ -42,7 +42,7 @@ Hi, I'm **Ata Sadruddin Shaikh**, a passionate **Data Scientist** with over 3 ye
 - 💼 **Current Role**: Data Scientist at ITKhidma (May 2022–Present), developing machine learning models and Azure-based data pipelines
 - 🌟 **Key Achievements**:
   - Built an end-to-end Azure data pipeline processing 100,000+ records, improving efficiency by 30%
-  - Created Power BI dashboards for 10+ clients, reducing reporting time by 40%
+  - Created Power BI dashboards for 100+ clients, reducing reporting time by 40%
   - Developed predictive models, boosting marketing campaign effectiveness by 20%
 - 🛠️ **Technical Skills**: Python, SQL, PySpark, Pandas, NumPy, Power BI, Tableau, Microsoft Azure (Data Factory, Data Lake, Synapse, Databricks), HTML, CSS, JavaScript, Java, Git, GitHub
 - 🤝 **Soft Skills**: Problem Solving, Communication, Leadership, Analytical Thinking, Collaboration, Time Management
